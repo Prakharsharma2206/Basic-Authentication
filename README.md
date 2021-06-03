@@ -1,7 +1,7 @@
 # Basic-Authentication
 
 To try the website use 
-# https://basicauthentic.netlify.app/login
+# https://basicauthentic.netlify.app
 
 No password is being used .....
 
